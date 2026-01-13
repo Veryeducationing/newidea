@@ -1,0 +1,8 @@
+         var _loc1_:LocalConnection = new LocalConnection();
+         var _loc2_:String = _loc1_.domain;
+         if(_loc2_.indexOf("charlycheb2.github.io",0) >= 0)
+         {
+            Main.DOMAIN = _loc2_;
+            Main.LOCALHOST = true;
+            Main.AUTHORIZED = true;
+         }
