@@ -1,5 +1,5 @@
 window.RufflePlayer = window.RufflePlayer || {};
 window.RufflePlayer.config = {
-    maxExecutionDuration: 300,
+    maxExecutionDuration: 1000,
     // ... other configurations
 };
