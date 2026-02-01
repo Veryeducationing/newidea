@@ -7,3 +7,6 @@ see image issue 1
 music randomly becomes loud due to overflow error
 
 win screen background error?
+
+whatever this is: Unsupported filter GradientGlowFilter(GradientFilter { colors: [GradientRecord { ratio: 0, color: Color(0x00ff0000) }, GradientRecord { ratio: 0, color: Color(0xffffff00) }, GradientRecord { ratio: 255, color: Color(0x000000ff) }], blur_x: 5.824951171875, blur_y: 5.824951171875, angle: 2.3387298583984375, distance: 6.03118896484375, strength: 0.51953125, flags: GradientFilterFlags(INNER_SHADOW | COMPOSITE_SOURCE | 0x1) })
+
