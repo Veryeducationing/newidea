@@ -5,3 +5,5 @@ goku's kameameah stops audio
 see image issue 1
 
 music randomly becomes loud due to overflow error
+
+win screen background error?
