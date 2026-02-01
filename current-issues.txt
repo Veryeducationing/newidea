@@ -3,3 +3,5 @@ stage hitboxes do not match sprites, presumably ruffles fault.
 goku's kameameah stops audio 
 
 see image issue 1
+
+music randomly becomes loud due to overflow error
