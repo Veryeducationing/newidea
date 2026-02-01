@@ -13,3 +13,5 @@ whatever this is: Unsupported filter GradientGlowFilter(GradientFilter { colors:
 previous entry causes isaac's magic hands to not render properly
 
 timeout timer is never long enough
+
+unshockingly online doesnt work
